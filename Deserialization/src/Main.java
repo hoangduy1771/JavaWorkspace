@@ -1,12 +1,13 @@
-package Deserialization;
-
-import java.io.*;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.ObjectInputStream;
 
 public class Main {
     public static void main(String[] args) throws IOException, ClassNotFoundException {
 
-        User user;
-        FileInputStream fileIn = new FileInputStream("F:\\work\\Workspace\\Java\\Java Workspace\\MyFirstProgram\\UserInfo.ser");
+        User user = null;
+        FileInputStream fileIn = new FileInputStream("F:\\work\\Workspace\\Java\\Java Workspace\\Serialization\\UserInfo.ser");
         ObjectInputStream objectIn = new ObjectInputStream(fileIn);
         user = (User) objectIn.readObject();
         objectIn.close();
@@ -18,5 +19,4 @@ public class Main {
         user.mainPage();
 
     }
-
 }
