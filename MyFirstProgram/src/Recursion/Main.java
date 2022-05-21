@@ -4,13 +4,14 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-//        Step counting
+        // Step counting
         Scanner scanner = new Scanner(System.in);
         System.out.println("How far do you want to walk? (meters)");
         int distance = scanner.nextInt();
 
         walk(0, distance);
 
+        scanner.close();
     }
 
     static void walk(int step, int distance) {
@@ -24,8 +25,6 @@ public class Main {
             System.out.println("You're done walking :)");
         }
 
-
     }
-
 
 }

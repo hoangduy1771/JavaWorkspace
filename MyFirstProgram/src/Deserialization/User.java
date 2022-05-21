@@ -18,6 +18,7 @@ public class User implements Serializable {
         System.out.println("Welcome to our Bank, " + name);
         System.out.println("Account Number: " + accountNumber);
         System.out.println("Balance: " + balance + "$");
+
     }
 
 

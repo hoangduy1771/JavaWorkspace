@@ -5,7 +5,7 @@ import java.util.HashMap;
 public class Main {
     public static void main(String[] args) {
 
-        HashMap<String, String> countries = new HashMap<String, String>();
+        HashMap<String, String> countries = new HashMap<>();
         countries.put("Vietnam", "Ha Noi");
         countries.put("Iceland", "Reykjavik");
         countries.put("Japan", "Tokyo");
@@ -28,10 +28,11 @@ public class Main {
 
 //        return key
 //        System.out.println(countries.keySet());
+        System.out.println(countries.entrySet());
 
-        for (String i : countries.keySet()) {
-            System.out.println(i + " : " + countries.get(i) + ";\n");
-        }
+//        for (String i : countries.keySet()) {
+//            System.out.println(i + " : " + countries.get(i) + ";\n");
+//        }
 
 
     }

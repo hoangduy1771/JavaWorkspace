@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98a8d4bb-f3b2-4a79-a5df-01164b077098" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MyFirstProgram/src/Generics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstProgram/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/bin/BasicJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstProgram/bin/BasicJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/bin/CustomException/AgeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstProgram/bin/CustomException/AgeException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/bin/CustomException/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstProgram/bin/CustomException/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/bin/GUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstProgram/bin/GUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/bin/HashMap/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstProgram/bin/HashMap/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/bin/JFrame/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstProgram/bin/JFrame/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/bin/JFrame/MyFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstProgram/bin/JFrame/MyFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/bin/Recursion/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstProgram/bin/Recursion/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/bin/Serialization/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstProgram/bin/Serialization/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/bin/Serialization/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstProgram/bin/Serialization/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/src/Deserialization/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstProgram/src/Deserialization/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/src/Recursion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstProgram/src/Recursion/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1w8CrQ3F6pff3DNfVy2G9JWArTQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Deserialization" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98a8d4bb-f3b2-4a79-a5df-01164b077098" name="Changes" comment="" />
+      <created>1627831029661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627831029661</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
